@@ -1,11 +1,7 @@
 # hh-private-practice
-個人の練習実験用
-
-## ここでGitHubを練習する
-
-2度めの変更
 
 
-### 3度目の変更
+## 仕事用便利SQLメモ
 
-ここを書き換えた（2017年10月24日）
+[Redshiftのテーブルのサイズ一覧を取得（Admin権限のユーザで実行すること）](/redshift/table_size_summary_check.sql)
+
